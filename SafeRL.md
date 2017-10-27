@@ -1,5 +1,5 @@
 # Reading List
-Repository of reading lists, selected paper summaries, and corresponding links
+Repository of reading lists on overview of AI Safety, Safe RL, and topics under the hood, along with selected paper summaries, and corresponding links
 
 # Risk, Transparency, Explainability 
 * On ensuring that machines are well behaved [[Paper]](https://arxiv.org/pdf/1708.05448.pdf) [[Summary]](https://github.com/kkhetarpal/Literature/blob/master/OnEnsuringthatIntelligentMachinesAreWellBehaved.md)
