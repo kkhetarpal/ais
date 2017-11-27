@@ -16,3 +16,4 @@ Repository of reading lists on overview of AI Safety, Safe RL, and topics under 
   * Teodor Mihai Moldovan, Pieter Abbeel, ICML, 2012
 * The Off-Switch Game [[Paper]](https://arxiv.org/pdf/1611.08219.pdf)
   * Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel, Stuart Russell
+
