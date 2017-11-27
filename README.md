@@ -7,3 +7,5 @@ Common repository for our readings and discussions
 # [Rewards, Inverse RL](https://github.com/kkhetarpal/ais/blob/master/RewardsInvRL.md)
 
 # [Intrinsic Motivation](https://github.com/kkhetarpal/ais/blob/master/IntrinsicMotivation.md)
+
+# [Resources for AI Safety]()
