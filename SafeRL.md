@@ -16,4 +16,10 @@ Repository of reading lists on overview of AI Safety, Safe RL, and topics under 
   * Teodor Mihai Moldovan, Pieter Abbeel, ICML, 2012
 * The Off-Switch Game [[Paper]](https://arxiv.org/pdf/1611.08219.pdf)
   * Dylan Hadfield-Menell, Anca Dragan, Pieter Abbeel, Stuart Russell
+* Concrete Problems in AI Safety [[Paper]](https://arxiv.org/pdf/1606.06565.pdf)
+  * 
+* Constrained Policy Optimization [[Paper]](https://arxiv.org/pdf/1705.10528.pdf)
+  * Joshua Achiam, David Held, Aviv Tamar, Pieter Abbeel
+* Probabilistically Safe Policy Transfer [[Paper]](https://arxiv.org/pdf/1705.05394.pdf)
+  * David Held, Zoe McCarthy, Michael Zhang, Fred Shentu, Pieter Abbeel
 
