@@ -1,0 +1,1 @@
+- Victoria Krakovna's collection of AI Safety resources [[Link]](https://vkrakovna.wordpress.com/ai-safety-resources/)
