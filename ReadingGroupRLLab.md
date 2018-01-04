@@ -1,9 +1,9 @@
 # Fall 2017 Upcoming meetings
 - When: November 28, Tuesday 2:30 pm, Where: McConnel,GradLounge/Library [[Paper]](https://arxiv.org/pdf/1705.08551.pdf)
 - Papers Discussed:
-* A Comprehensive Survey on Safe Reinforcement Learning [[Paper]](http://jmlr.org/papers/v16/garcia15a.html)
-* Should Robots be Obedient? [[Paper]](https://arxiv.org/pdf/1705.09990.pdf)
-* Enabling Robots to Communicate their Objectives [[Paper]](https://arxiv.org/pdf/1702.03465.pdf)
+  * A Comprehensive Survey on Safe Reinforcement Learning [[Paper]](http://jmlr.org/papers/v16/garcia15a.html)
+  * Should Robots be Obedient? [[Paper]](https://arxiv.org/pdf/1705.09990.pdf)
+  * Enabling Robots to Communicate their Objectives [[Paper]](https://arxiv.org/pdf/1702.03465.pdf)
 
 # Winter 2018 Upcoming meetings
 - We are in the process of finding a fixed time and place for weekly reading group covering all topics under the umbrella of AI Safety. 
