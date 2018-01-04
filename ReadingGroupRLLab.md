@@ -8,7 +8,7 @@
  
 
 # Winter 2018 Upcoming meetings
-- We are in the process of finding a fixed time and place for weekly reading group covering all topics under the umbrella of AI Safety. 
+- Tentative list of papers
 
   | When              | Where         | To be discussed                                                               |
   |:-----------------:|:-------------:|:-----------------------------------------------------------------------------:|
