@@ -3,6 +3,8 @@
 
 
 # Winter 2018 Upcoming meetings
+- We are in the process of finding a fixed time and place for weekly reading group covering all topics under the umbrella of AI Safety. 
+
   | When              | Where         | To be discussed                                                               |
   |:-----------------:|:-------------:|:-----------------------------------------------------------------------------:|
   | Thu, Jan 11, 1~2pm| TBA           | Concrete Problems in AI Safety [[Paper]](https://arxiv.org/pdf/1606.06565.pdf)|
