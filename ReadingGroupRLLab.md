@@ -1,5 +1,5 @@
 # Fall 2017 Upcoming meetings
-- When: November 28, Tuesday 2:30 pm, Where: McConnel,GradLounge/Library [[Paper]](https://arxiv.org/pdf/1705.08551.pdf)
+- When: Weekly meetings on Tuesday, Where: Grad Lounge
 - Papers Discussed:
   * A Comprehensive Survey on Safe Reinforcement Learning [[Paper]](http://jmlr.org/papers/v16/garcia15a.html)
   * Should Robots be Obedient? [[Paper]](https://arxiv.org/pdf/1705.09990.pdf)
