@@ -6,10 +6,10 @@
   | When              | Where         | To be discussed                                                               |
   |:-----------------:|:-------------:|:-----------------------------------------------------------------------------:|
   | Thu, Jan 11, 1~2pm| TBA           | The Off Switch Game [[Paper]](https://arxiv.org/pdf/1611.08219.pdf)|
-  |                   |               | Probabilistically Safe Policy Transfer [[Paper]](https://arxiv.org/pdf/1705.05394.pdf)|
+  |                   |               | Concrete Problems in AI Safety [[Paper]](https://arxiv.org/pdf/1606.06565.pdf)|
   |                   |               | Intrinsically Motivated Reinforcement Learning: An evolutionary perspective [[Paper]](https://web.eecs.umich.edu/~baveja/Papers/IMRLIEEETAMDFinal.pdf)|
   |                   |               | Reward Design via Online Gradient Ascent [[Paper]](https://papers.nips.cc/paper/4146-reward-design-via-online-gradient-ascent.pdf)|
-  |                   |               | Concrete Problems in AI Safety [[Paper]](https://arxiv.org/pdf/1606.06565.pdf)|
+  |                   |               | Probabilistically Safe Policy Transfer [[Paper](https://arxiv.org/pdf/1705.05394.pdf)|
 
 
 
