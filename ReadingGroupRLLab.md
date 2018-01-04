@@ -3,9 +3,11 @@
 
 
 # Winter 2018 Upcoming meetings
-- -When: Thursday, January 11, 2018 1pm - 3pm , 
-  -Where: TBA , [ Tentative: Schulich Sci/Eng Library - Room 404 ]
-  -Paper: 
+  | When                 | Where         | To be discussed  |
+  | -------------        |:-------------:| ----------------:|
+  | January 21,2018      | TBA           |                  |
+  |                      |               |                  |
+  |                      |               |                  |
 
 
 - List of Papers suggested for Winter
