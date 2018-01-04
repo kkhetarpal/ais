@@ -5,7 +5,7 @@
 # Winter 2018 Upcoming meetings
   | When                 | Where         | To be discussed  |
   | -------------        |:-------------:| ----------------:|
-  | January 21,2018      | TBA           |                  |
+  | January 21,2018      | TBA           | Concrete Problems in AI Safety [[Paper]](https://arxiv.org/pdf/1606.06565.pdf)                 |
   |                      |               |                  |
   |                      |               |                  |
 
