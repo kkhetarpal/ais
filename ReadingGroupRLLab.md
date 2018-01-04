@@ -6,7 +6,7 @@
   | When                     | Where         | To be discussed                                                               |
   | -----------------        |:-------------:| -----------------------------------------------------------------------------:|
   | Thu, January 11, 1-3pm   | TBA           | Concrete Problems in AI Safety [[Paper]](https://arxiv.org/pdf/1606.06565.pdf)|
-  |                          |               |                                                                               |
+  |                          |               | Probabilistically Safe Policy Transfer [[Paper]](https://arxiv.org/pdf/1705.05394.pdf)|
   |                          |               |                                                                               |
 
 
