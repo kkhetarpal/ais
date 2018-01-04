@@ -7,7 +7,7 @@
   | -----------------        |:-------------:| -----------------------------------------------------------------------------:|
   | Thu, January 11, 1-3pm   | TBA           | Concrete Problems in AI Safety [[Paper]](https://arxiv.org/pdf/1606.06565.pdf)|
   |                          |               | Probabilistically Safe Policy Transfer [[Paper]](https://arxiv.org/pdf/1705.05394.pdf)|
-  |                          |               |                                                                               |
+  |                          |               | Intrinsically Motivated Reinforcement Learning: An evolutionary perspective [[Paper]](https://web.eecs.umich.edu/~baveja/Papers/IMRLIEEETAMDFinal.pdf)|
 
 
 - List of Papers suggested for Winter
