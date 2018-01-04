@@ -1,12 +1,3 @@
-# Fall 2017 Upcoming meetings
-- When: Weekly meetings on Tuesday, Where: Grad Lounge
-- Papers Discussed:
-  * A Comprehensive Survey on Safe Reinforcement Learning [[Paper]](http://jmlr.org/papers/v16/garcia15a.html)
-  * Should Robots be Obedient? [[Paper]](https://arxiv.org/pdf/1705.09990.pdf)
-  * Enabling Robots to Communicate their Objectives [[Paper]](https://arxiv.org/pdf/1702.03465.pdf)
-  * Inverse Reward Design [[Paper]](https://arxiv.org/pdf/1711.02827.pdf)
- 
-
 # Winter 2018 Upcoming meetings
 - Weekly meeting time and place for this reading group is to be announced.
 - Tentative list of papers
@@ -19,3 +10,13 @@
   |                   |               | Intrinsically Motivated Reinforcement Learning: An evolutionary perspective [[Paper]](https://web.eecs.umich.edu/~baveja/Papers/IMRLIEEETAMDFinal.pdf)|
   |                   |               | Reward Design via Online Gradient Ascent [[Paper]](https://papers.nips.cc/paper/4146-reward-design-via-online-gradient-ascent.pdf)|
   |                   |               | Concrete Problems in AI Safety [[Paper]](https://arxiv.org/pdf/1606.06565.pdf)|
+
+
+
+# Fall 2017 Upcoming meetings
+- When: Weekly meetings on Tuesday, Where: Grad Lounge
+- Papers Discussed:
+  * A Comprehensive Survey on Safe Reinforcement Learning [[Paper]](http://jmlr.org/papers/v16/garcia15a.html)
+  * Should Robots be Obedient? [[Paper]](https://arxiv.org/pdf/1705.09990.pdf)
+  * Enabling Robots to Communicate their Objectives [[Paper]](https://arxiv.org/pdf/1702.03465.pdf)
+  * Inverse Reward Design [[Paper]](https://arxiv.org/pdf/1711.02827.pdf)
