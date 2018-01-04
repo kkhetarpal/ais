@@ -8,7 +8,9 @@
  
 
 # Winter 2018 Upcoming meetings
+- Weekly meeting time and place for this reading group is to be announced.
 - Tentative list of papers
+
 
   | When              | Where         | To be discussed                                                               |
   |:-----------------:|:-------------:|:-----------------------------------------------------------------------------:|
