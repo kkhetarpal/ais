@@ -1,12 +1,13 @@
 # Winter 2018 Upcoming meetings
-- Weekly meeting time and place for this reading group is to be announced.
+- Weekly meeting time : 2:30 - 4:00 pm
+- Location: McConnel Staff Lounge (until we find a permanent room)
 - Tentative list of papers
 
 
   | When              | Where         | To be discussed                                                               |
   |:-----------------:|:-------------:|:-----------------------------------------------------------------------------:|
-  | Thu, Jan 11, 2:30-4pm| Grad Lounge| The Off Switch Game [[Paper]](https://arxiv.org/pdf/1611.08219.pdf)|
-  | Thu, Jan 18, 2:30-4pm| Grad Lounge| Concrete Problems in AI Safety [[Paper]](https://arxiv.org/pdf/1606.06565.pdf)|
+  | Thu, Jan 11, 2:30-4pm| Staff Lounge| The Off Switch Game [[Paper]](https://arxiv.org/pdf/1611.08219.pdf)|
+  | Thu, Jan 18, 2:30-4pm| Staff Lounge| Concrete Problems in AI Safety [[Paper]](https://arxiv.org/pdf/1606.06565.pdf)|
   |                   |               | Intrinsically Motivated Reinforcement Learning: An evolutionary perspective [[Paper]](https://web.eecs.umich.edu/~baveja/Papers/IMRLIEEETAMDFinal.pdf)|
   |                   |               | Reward Design via Online Gradient Ascent [[Paper]](https://papers.nips.cc/paper/4146-reward-design-via-online-gradient-ascent.pdf)|
   |                   |               | Probabilistically Safe Policy Transfer [[Paper]](https://arxiv.org/pdf/1705.05394.pdf)|
