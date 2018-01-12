@@ -1,5 +1,5 @@
 # Winter 2018 Upcoming meetings
-- Weekly meeting time : 2:30 - 4:00 pm
+- Weekly meeting time : Thursday, 2:30 - 4:00 pm
 - Location: McConnel Staff Lounge (until we find a permanent room)
 - Tentative list of papers
 
