@@ -22,3 +22,5 @@ Repository of reading lists on overview of AI Safety, Safe RL, and topics under 
   * Joshua Achiam, David Held, Aviv Tamar, Pieter Abbeel
 * Probabilistically Safe Policy Transfer [[Paper]](https://arxiv.org/pdf/1705.05394.pdf)
   * David Held, Zoe McCarthy, Michael Zhang, Fred Shentu, Pieter Abbeel
+* Robust Covariate Shift Regression [[Paper]](http://proceedings.mlr.press/v51/chen16d.pdf)
+  * Xiangli Chen, Mathew Monfort, Anqi Liu, Brian D. Ziebart
