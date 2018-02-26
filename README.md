@@ -10,4 +10,4 @@ Common repository for our readings and discussions
 
 # [Resources for AI Safety](https://github.com/kkhetarpal/ais/blob/master/Resources.md)
 
-# [RL Lab Reading Group Meeting Schedule](https://github.com/kkhetarpal/ais/blob/master/ReadingGroupRLLab.md)
+# [RLLab AI Safety Reading Group Meeting Schedule](https://github.com/kkhetarpal/ais/blob/master/ReadingGroupRLLab.md)
