@@ -1,7 +1,7 @@
-## AI Safety Reading Group - [Reasoning and Learning Lab](http://rl.cs.mcgill.ca/index.html)
+# AI Safety Reading Group - [Reasoning and Learning Lab](http://rl.cs.mcgill.ca/index.html)
 
 
-# Winter 2018 Upcoming meetings
+## Winter 2018 Upcoming meetings
 - Weekly meeting time : Thursday, 3:00 - 4:00 pm
 - Location: McConnel MC 437
 - Tentative list of papers
@@ -19,7 +19,7 @@
 
 
 
-# Fall 2017 Upcoming meetings
+## Fall 2017 Upcoming meetings
 - When: Weekly meetings on Tuesday, Where: Grad Lounge
 - Papers Discussed:
   * A Comprehensive Survey on Safe Reinforcement Learning [[Paper]](http://jmlr.org/papers/v16/garcia15a.html)
