@@ -14,7 +14,7 @@
   | Thu, Jan 25, 3-4 pm  | MC  437| Inverse Reward Design [[Paper]](https://arxiv.org/pdf/1711.02827.pdf)|
   | Thu, Feb 15, 3-4 pm  | MC 437 | Robust Adversarial Reinforcement Learning [[Paper]](https://arxiv.org/pdf/1703.02702.pdf)     |
   | Thu, Feb 22, 3-4 pm  | MC 437 |  Safe/High Confidence Policy Improvement in a Batch Mode Setting   |
-  | Thu, Mar 1, 3-4 pm  | MC 437 |     |
+  | Thu, Mar 1, 3-4 pm  | MC 437 |  Reinforcement Learning with a Corrupted Reward Channel [[Paper]](http://static.ijcai.org/proceedings-2017/0656.pdf) |
   
 
 
