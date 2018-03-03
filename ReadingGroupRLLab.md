@@ -15,7 +15,9 @@
   | Thu, Feb 15, 3-4 pm  | MC 437 | Robust Adversarial Reinforcement Learning [[Paper]](https://arxiv.org/pdf/1703.02702.pdf)     |
   | Thu, Feb 22, 3-4 pm  | MC 437 |  Safe/High Confidence Policy Improvement in a Batch Mode Setting   |
   | Thu, Mar 1, 3-4 pm  | MC 437 |  Reinforcement Learning with a Corrupted Reward Channel [[Paper]](http://static.ijcai.org/proceedings-2017/0656.pdf) |
-  
+  | Thu, Mar 8, NA  | NA | Cancelled Due to Study Break  |
+  | Thu, Mar 15, 3-4 pm  | MC 437 | Tentative: Bayesian RL by Riashat Islam |
+  | Thu, Mar 22, 3-4 pm  | MC 437 | Tentative: Multi Agent- AI Safety by Rez |
 
 
 
