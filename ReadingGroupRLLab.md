@@ -18,7 +18,7 @@
   | Thu, Mar 8, NA  | NA | Cancelled Due to Study Break  |
   | Thu, Mar 15, NA  | NA | Cancelled Due to RL MidTerm  |
   | Thu, Mar 22, 3-4 pm  | MC 437 | Algorithms for CVaR Optimization in MDPs [[Paper]](http://papers.nips.cc/paper/5246-algorithms-for-cvar-optimization-in-mdps.pdf) |
-  | Thu, Mar 29, 3-4 pm  | MC 437 | Tentative: Distributive Perspective on RL |
+  | Thu, Mar 29, 3-4 pm  | MC 437 | A Distributive Perspective on RL [[Paper]](https://arxiv.org/pdf/1707.06887.pdf) |
 
 
 ## Fall 2017 Upcoming meetings
