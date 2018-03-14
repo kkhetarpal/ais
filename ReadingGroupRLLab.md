@@ -19,6 +19,7 @@
   | Thu, Mar 15, NA  | NA | Cancelled Due to RL MidTerm  |
   | Thu, Mar 22, 3-4 pm  | MC 437 | Algorithms for CVaR Optimization in MDPs [[Paper]](http://papers.nips.cc/paper/5246-algorithms-for-cvar-optimization-in-mdps.pdf) |
   | Thu, Mar 29, 3-4 pm  | MC 437 | A Distributive Perspective on RL [[Paper]](https://arxiv.org/pdf/1707.06887.pdf) |
+  | Thu, Apr 5, 3-4 pm  | MC 437 | Tentative: Adversarial Risk and the Dangers of Evaluating Against Weak Attacks [[Paper]](https://arxiv.org/pdf/1802.05666.pdf) |
 
 
 ## Fall 2017 Upcoming meetings
