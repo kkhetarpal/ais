@@ -17,7 +17,7 @@
   | Thu, Mar 1, 3-4 pm  | MC 437 |  Reinforcement Learning with a Corrupted Reward Channel [[Paper]](http://static.ijcai.org/proceedings-2017/0656.pdf) |
   | Thu, Mar 8, NA  | NA | Cancelled Due to Study Break  |
   | Thu, Mar 15, NA  | NA | Cancelled Due to RL MidTerm  |
-  | Thu, Mar 22, 3-4 pm  | MC 437 | Tentative: Multi Agent - AI Safety by Rez |
+  | Thu, Mar 22, 3-4 pm  | MC 437 | Algorithms for CVaR Optimization in MDPs [[Paper]](http://papers.nips.cc/paper/5246-algorithms-for-cvar-optimization-in-mdps.pdf) |
   | Thu, Mar 29, 3-4 pm  | MC 437 | Tentative: Distributive Perspective on RL |
 
 
