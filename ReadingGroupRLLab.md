@@ -4,7 +4,7 @@
 ## Winter 2018 Upcoming meetings
 - Weekly meeting time : Thursday, 3:00 - 4:00 pm
 - Location: McConnel MC 437
-- Tentative list of papers
+- Reading List
 
 
   | When              | Where         | To be discussed                                                               | Led By|
