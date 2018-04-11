@@ -20,6 +20,7 @@
   |Mar 22, 3-4 pm  | MC 437 | Algorithms for CVaR Optimization in MDPs [[Paper]](http://papers.nips.cc/paper/5246-algorithms-for-cvar-optimization-in-mdps.pdf) | Rez |
   |Mar 29, 3-4 pm  | MC 437 | A Distributive Perspective on RL [[Paper]](https://arxiv.org/pdf/1707.06887.pdf) | Riashat |
   |Apr 5, 3-4 pm  | MC 437 | Adversarial Risk and the Dangers of Evaluating Against Weak Attacks [[Paper]](https://arxiv.org/pdf/1802.05666.pdf) | Michael |
+  |Apr 12, 3-4 pm  | MC 437 | Reading Exercise: AI Alignment [[Paper]](https://mailchi.mp/ff6340049bd0/alignment-newsletter-1) | Cancelled |
 
 
 ## Fall 2017 Upcoming meetings
